@@ -1,17 +1,17 @@
-# 🤖 GMod AI Assistant
+# GMod AI Assistant
 
 An AI assistant for Garry's Mod that can **actually control your game**! Type `!ai spawn 10 zombies` and watch it happen.
 
-## ✨ Features
+## Features
 
-- **🗣️ Natural Language Commands**: Just type what you want in chat
-- **🛠️ 40+ Game Tools**: Spawn props, NPCs, vehicles, give weapons, change gravity, teleport, and more
-- **☁️ Cloud & Local AI**: Use free Cerebras API or run AI locally with LM Studio/Ollama
-- **📡 Streaming Responses**: Watch the AI think in real-time
-- **🧠 Context Aware**: AI knows your position, health, what you're looking at
-- **🤝 AI Live Companion**: Spawn an AI buddy that fights alongside you!
+- **Natural Language Commands**: Just type what you want in chat
+- **40+ Game Tools**: Spawn props, NPCs, vehicles, give weapons, change gravity, teleport, and more
+- **Cloud & Local AI**: Use free Cerebras API or run AI locally with LM Studio/Ollama
+- **Streaming Responses**: Watch the AI think in real-time
+- **Context Aware**: AI knows your position, health, what you're looking at
+- **AI Live Companion**: Spawn an AI buddy that fights alongside you!
 
-## � Installation
+## Installation
 
 ### Step 1: Subscribe on Steam Workshop
 Subscribe to the addon on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=YOUR_WORKSHOP_ID)
@@ -39,7 +39,7 @@ cd bridge
 pip install -r requirements.txt
 ```
 
-## 🚀 Usage
+## Usage
 
 ### 1. Start the Bridge Server
 ```bash
@@ -113,7 +113,7 @@ PROVIDER = "ollama"
 OLLAMA_MODEL = "llama3.1:8b"
 ```
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
@@ -122,7 +122,7 @@ OLLAMA_MODEL = "llama3.1:8b"
 | AI doesn't respond | Check API key, check bridge console for errors |
 | Commands don't work | Make sure model supports function/tool calling |
 
-## 📝 Console Commands
+## Console Commands
 
 | Command | Description |
 |---------|-------------|
@@ -131,11 +131,11 @@ OLLAMA_MODEL = "llama3.1:8b"
 | `ai_status` | Check connection |
 | `ai_reconnect` | Reconnect to bridge |
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-## 📜 License
+## License
 
 MIT License - Do whatever you want with it!
 
