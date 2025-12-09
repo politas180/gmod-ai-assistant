@@ -17,7 +17,7 @@ An AI assistant for Garry's Mod that can **actually control your game**! Type `!
 Subscribe to the addon on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=YOUR_WORKSHOP_ID)
 
 ### Step 2: Install GWSockets (REQUIRED)
-1. Download `gmsv_gwsockets_win32.dll` from [GWSockets Releases](https://github.com/FredyH/GWSockets/releases)
+1. Download `gmsv_gwsockets_win32.dll` or if you're running 64-Bit `gmsv_gwsockets_win64.dll` from [GWSockets Releases](https://github.com/FredyH/GWSockets/releases)
 2. Place it in: `GarrysMod/lua/bin/` (create the `bin` folder if needed)
 3. Restart GMod
 
