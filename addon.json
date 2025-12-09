@@ -1,0 +1,19 @@
+{
+    "title": "AI Assistant - Chat & Control GMod with AI",
+    "type": "tool",
+    "tags": [
+        "fun",
+        "roleplay",
+        "npc",
+        "build"
+    ],
+    "ignore": [
+        "bridge/",
+        "*.md",
+        "*.bat",
+        "*.txt",
+        "__pycache__/",
+        "icon.png"
+    ],
+    "description": "Talk to an AI that can ACTUALLY control your game! Type '!ai spawn 10 zombies' and watch it happen. 40+ tools: spawn props/NPCs/vehicles, give weapons, change gravity, teleport, and more. Supports local AI (LM Studio/Ollama) and cloud AI (Cerebras - FREE). Includes AI Live companion that follows you and helps in combat!"
+}
